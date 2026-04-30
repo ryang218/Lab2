@@ -1,6 +1,6 @@
 def calculate_bmi(height, weight):
-    print("Height = " + str(height))
-    print("Weight = " + str(weight))
+    print("Height = " + str(height) ,"metres")
+    print("Weight = " + str(weight) , "kilograms")
 
     
     bmi = weight / (height * height)
