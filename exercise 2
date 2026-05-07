@@ -27,9 +27,7 @@ def calc_average(num_list):
 
 def find_min_max():
     print("find_min_max")
-    def calc_min_max_temperature(temperature_list):
-    minimum = int(min(temperature_list))
-    maximum = int(max(temperature_list))
+    
 
     return [minimum, maximum]
 
